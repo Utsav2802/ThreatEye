@@ -1,0 +1,8 @@
+{
+  "keywords": ["powershell.exe","start-sleep", "netcat", "keylogger"],
+  "ignore_cmdlines": [],
+  "ignore_executables": 
+  [
+    "c:\\windows\\system32\\windowspowershell\\v1.0\\powershell.exe"
+  ]
+}
